@@ -14,18 +14,18 @@ SpeakToText is a React application that utilizes the Web Speech API to convert s
 - npm (>= 6.x) or yarn (>= 1.x)
 - A modern web browser with support for the Web Speech API (e.g., Google Chrome)
 
+## Website
+(https://speak-to-text-sage.vercel.app/)
+## App Interface
+
+![Screenshot 2023-10-12 172323](https://github.com/Rupal-Gupta29/Speak-To-Type/assets/70842313/e4da9488-2004-4df3-97ca-2212c69616d5)
+
 ## Getting Started
 
 ### Clone the Repository
 ```sh
 git clone https://github.com/Sanketsinghgodara/SpeakToText.git
 cd SpeakToText
-
-## Website
-(https://speak-to-text-sage.vercel.app/)
-## App Interface
-
-![Screenshot 2023-10-12 172323](https://github.com/Rupal-Gupta29/Speak-To-Type/assets/70842313/e4da9488-2004-4df3-97ca-2212c69616d5)
 
 # Getting Started with Create React App
 
